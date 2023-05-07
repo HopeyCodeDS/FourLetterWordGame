@@ -1,0 +1,51 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/opeye/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/opeye/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/opeye/.platformio/packages/toolchain-atmelavr/bin/avr-gdb.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++17",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:/Users/opeye/Documents/PlatformIO/Projects/Flashing Led/include",
+    "C:/Users/opeye/Documents/PlatformIO/Projects/Flashing Led/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/Optiboot_flasher/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+    "C:/Users/opeye/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false
+}
