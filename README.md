@@ -17,6 +17,7 @@
 
 ### Week 1 Exercises Done
 * Libraries
+* Dimmed LEDs
 * LED Chaos
 * Basic Exercises C
 
