@@ -8,7 +8,7 @@ int main()
 {
   initDisplay();
   
-  char str[] ="cat?";
+  char str[] ="book";
 
   writeStringAndWait(str,10000);
   return  0;
