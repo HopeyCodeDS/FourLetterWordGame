@@ -29,11 +29,11 @@
     * stringPract_2
 * Timing and Chronology of the ISRs
 
-### Week 2 Projects Done
+### Week 2 Project Done
 *    Simon Says
 
 
-### Week 3 xercises Done
+### Week 3 Exercises Done
 
 *    Scrolling Numbers	
 *    Alphabet on Display	
@@ -41,18 +41,18 @@
 *    Writing lines
 
 
-### Week 3 Projects Done	
+### Week 3 Project Done	
 
 *    Nim Game
 
 
-### Week  4 Projects Done
+### Week  4 Exercises Done
 	
 *    My Synthesizer
 *    Stopwatch
 	 	
 
-### Week 4 Projects Done
+### Week 4 Project Done
 
 *    Lunar Lander
 
